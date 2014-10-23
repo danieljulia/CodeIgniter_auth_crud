@@ -2,8 +2,6 @@ CodeIgniter 2.2.0 Ion + Auth2 + Grocery crud 1.4.1 (all mashed up)
 =====================
 
 
-#CodeIgniter + Ion Auth + Grocery Crud
-
 ###All in one 
 by [Daniel Julià](http://www.kiwoo.org)
 
