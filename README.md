@@ -5,14 +5,14 @@ CodeIgniter 2.2.0 Ion + Auth2 + Grocery crud 1.4.1 (all mashed up)
 ###All in one 
 by [Daniel Julià](http://www.kiwoo.org)
 
-CodeIgniter is a great simple framework. Many times you need authentication and CRUD,
+CodeIgniter is a great simple framework. But often you need authentication and CRUD,
 with this package you can start already with all this all together.
 
 Versions
 
-CodeIgniter 	2.2.0
-Ion-Auth	2
-Grocery crud	1.4.1
+* CodeIgniter 	2.2.0
+* Ion-Auth	2
+* Grocery crud	1.4.1
 
 
 ##Documentation
