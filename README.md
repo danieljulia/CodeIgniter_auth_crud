@@ -24,18 +24,18 @@ Remember to add an encryption key to the ci config file
 
 ##Samples
 
-Login using ion auth
+* Login using ion auth
 
 /auth/login 
 
 admin@admin.com
 password
 
-logout
+* logout
 
 /auth/logout
 
-Grocery Crud samples
+* Grocery Crud samples
 
 /examples
 
